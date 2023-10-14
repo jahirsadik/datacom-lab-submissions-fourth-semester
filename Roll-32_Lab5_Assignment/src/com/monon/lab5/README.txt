@@ -1,0 +1,1 @@
+Server.java needs to be run before Client.java for the project to work.

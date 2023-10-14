@@ -1,0 +1,4 @@
+For input: 100000000:
+Encoded Output Data for B8ZS: (-5V, 0V, 0V, 0V, -5V, +5V, 0V, +5V, -5V, )
+
+HDB3 Encoding: +5V, 0V, 0V, 0V, +5V, -5V, 0V, 0V, -5V, 

@@ -1,0 +1,7 @@
+1. Go to the directory (src/com/company)
+2. First compile the java byte code using command (Copy paste the command),
+javac *java
+3. Go to the directory (src/).
+(Copy paste the commands)
+To Run the Server: java com/company/Server
+To Run the Client: java com/companny/Client
